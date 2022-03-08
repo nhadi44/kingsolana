@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kingsolana/static/css/main.a00ee246.css",
+    "main.js": "/kingsolana/static/js/main.911010b7.js",
+    "static/media/image-03.jpg": "/kingsolana/static/media/image-03.20a7ac711d41265029dc.jpg",
+    "static/media/image-02.jpg": "/kingsolana/static/media/image-02.d1b4b76afcb4f8834812.jpg",
+    "static/media/image-01.jpg": "/kingsolana/static/media/image-01.ded0abeca60d5c95b12f.jpg",
+    "static/media/body-icon.png": "/kingsolana/static/media/body-icon.379fe567f99ec8ff7912.png",
+    "static/media/company-icon.png": "/kingsolana/static/media/company-icon.14f759a40f67662659a5.png",
+    "static/media/background.png": "/kingsolana/static/media/background.ecab66b3ada79344f958.png",
+    "index.html": "/kingsolana/index.html",
+    "main.a00ee246.css.map": "/kingsolana/static/css/main.a00ee246.css.map",
+    "main.911010b7.js.map": "/kingsolana/static/js/main.911010b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a00ee246.css",
+    "static/js/main.911010b7.js"
+  ]
+}
