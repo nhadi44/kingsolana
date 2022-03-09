@@ -1,5 +1,4 @@
-import { useEffect, useState } from 'react';
-import { Link, NavLink } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import pic from '../assets/icons/croped/company-icon.png';
 import '../assets/css/page/home.css';
 
